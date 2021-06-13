@@ -1,0 +1,24 @@
+.heading{
+    font-size: 300%;
+    width: 100%;
+    margin: 0px;
+    line-height: 2;
+}
+.iii, #noo, #status{
+    font-size: 20px;
+}
+.copy_right_footer {
+    position: fixed;
+    color: #ffffff;
+    bottom: 0;
+    width: 100%;
+    background-image: linear-gradient(to right top, #ffb805, #8400a5, #ff0000, #00ff22, #ff9900, #00ffff);
+    line-height: 3;
+    text-align: center;
+    }
+    canvas{
+        box-shadow: 10px 10px 20px black;
+        border: 10px groove darkgoldenrod;
+        margin-top: 130px;
+        border-radius: 10px;
+    }
